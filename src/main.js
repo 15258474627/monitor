@@ -7,7 +7,6 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css'; // 默认主题
 // import '../static/css/theme-green/index.css';       // 浅绿色主题
 import './assets/css/icon.css';
-import './components/common/directives';
 import "babel-polyfill";
 
 Vue.use(VCharts)
